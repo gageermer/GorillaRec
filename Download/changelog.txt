@@ -1,16 +1,11 @@
-Feature Patch v0.6.9: sex build
--Added tutorial and info hints
--Added custom rooms back into 2018 (no saving yet)
--Added Profile Downloader
--Added build links tab
--Improved profile image changing
--Updated the UI more
-
-Note: This release DOES NOT feature friending yet! This is just a feature patch before that is released in version 0.7.0.
+Initial Release: V0.0.1
+Got the game to launch and connect
+Working on Multiplayer
+idk game partially works very cool
 
 Credits:
-@Nexus0821 - Programmed and helped add in a lot of new features
+tuckerisapizza: api, backend and all of that
+polar: helped alot
+crypticbren:called me a skid and made me angry
+me: skidded alot nd coded some stuff and was very retarded but then became very cool
 
-@LucasOnDiscord#0210 - Adding potions
-@GabeTheFirst#7335 - Tester when my game was broken
-@andry6702#9812 - Discovered custom room downloading for 2018

@@ -1,11 +1,3 @@
 Initial Release: V0.0.1
 Got the game to launch and connect
-Working on Multiplayer
-idk game partially works very cool
-
-Credits:
-tuckerisapizza: api, backend and all of that
-polar: helped alot
-crypticbren:called me a skid and made me angry
-me: skidded alot nd coded some stuff and was very retarded but then became very cool
-
+Working Multiplayer
